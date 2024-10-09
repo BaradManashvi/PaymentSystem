@@ -42,8 +42,6 @@
             android:name=".ui.BoardActivity"
             android:exported="false" />
 
-
-
     </application>
 
 </manifest>
